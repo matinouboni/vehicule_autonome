@@ -1,0 +1,46 @@
+Clienti:
+Bartolini
+Dolciotti
+Fiore
+Hijjoui
+Palmieri
+Rainesi
+Tiglio
+Valentini
+Vidanalage
+Zepponi
+Viaggi:
+1742 Fiore 699 10 4 7
+2878 Hijjoui 675 2 1 7
+750 Dolciotti 587 7 4 9
+5201 Tiglio 480 1 4 9
+3077 Palmieri 421 4 5
+5051 Vidanalage 421 5 4
+6184 Zepponi 421 4 5
+6136 Bartolini 415 4 10
+2083 Valentini 291 3 5
+899 Rainesi 132 2 8
+Posizioni: 1 3 2
+Eventi:
+750 CHIAMATA 1 Dolciotti
+899 CHIAMATA 3 Rainesi
+1079 FINE_SERVIZIO 3 Rainesi
+1604 FINE_SERVIZIO 1 Dolciotti
+1742 CHIAMATA 2 Fiore
+2083 CHIAMATA 3 Valentini
+2705 FINE_SERVIZIO 2 Fiore
+2878 CHIAMATA 0 Hijjoui
+3077 CHIAMATA 0 Palmieri
+3085 FINE_SERVIZIO 3 Valentini
+5051 CHIAMATA 1 Vidanalage
+5201 CHIAMATA 0 Tiglio
+5744 FINE_SERVIZIO 1 Vidanalage
+5921 RIENTRO_SEDE 1
+6136 CHIAMATA 0 Bartolini
+6184 CHIAMATA 0 Zepponi
+6221 FINE_RICARICA 1
+Rifiuti: 5
+Ricariche: 1
+Tempo totale: 3606
+Guadagno: 4166
+UB: 18794
